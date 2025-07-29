@@ -1,9 +1,5 @@
 # Hi, I'm Lucas Vieira! 👋  [![GitHub followers](https://img.shields.io/github/followers/lucas-kiozy?style=social)](https://github.com/lucas-kiozy)
 
-![Octocat](./octocat-1753748422577.png#gh-light-mode-only)
-
----
-
 ### 👨‍💻 About Me
 
 I'm a **Systems Analyst** graduated in Information Systems from **UFF**, passionate about **Artificial Intelligence**, **Automation (RPA)**, and the **Microsoft Power Platform**. I have hands-on experience with:
