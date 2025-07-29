@@ -22,7 +22,7 @@ Always looking for new challenges and opportunities to collaborate on innovative
 
 ### 🐍 GitHub Snake Game
 
-![snake gif](https://github.com/lucas-kiozy/lucas-kiozy/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/lucas-kiozy/lucas-kiozy/output/github-contribution-grid-snake.svg)
 
 <details>
   <summary>How does this game work?</summary>
