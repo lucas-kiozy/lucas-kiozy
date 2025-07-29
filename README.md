@@ -1,4 +1,4 @@
-# Hi, I'm Lucas Vieira! 👋
+# Hi, I'm Lucas Vieira! 👋  [![GitHub followers](https://img.shields.io/github/followers/lucas-kiozy?style=social)](https://github.com/lucas-kiozy)
 
 ![Octocat](./octocat-1753748422577.png#gh-light-mode-only)
 
@@ -14,13 +14,11 @@ I'm a **Systems Analyst** graduated in Information Systems from **UFF**, passion
 - **Databases:** PostgreSQL, SQL Server, MySQL
 - **Tools & Methodologies:** Git, ServiceNow, Trello, Scrum, Bizagi
 
-Always looking for new challenges and opportunities to collaborate on innovative and efficient projects.
+Always looking for new challenges and opportunities to collaborate on innovative projects.
 
 ---
 
-### 🚀 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-kiozy&show_icons=true&theme=radical)
+### 🚀 GitHub Top Langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-kiozy&layout=compact&theme=radical)
 
@@ -36,12 +34,6 @@ Always looking for new challenges and opportunities to collaborate on innovative
   
   Credits to [Platane/snk](https://github.com/Platane/snk).
 </details>
-
----
-
-### 🧑‍🤝‍🧑 Follow me on GitHub
-
-[![GitHub followers](https://img.shields.io/github/followers/lucas-kiozy?style=social)](https://github.com/lucas-kiozy)
 
 ---
 
