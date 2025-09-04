@@ -36,7 +36,7 @@ Always looking for new challenges and opportunities to collaborate on innovative
 ### 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasvsilva)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:L_vieira@hotmail.com.br)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasv.kiozy@gmail.com)
 
 ---
 
