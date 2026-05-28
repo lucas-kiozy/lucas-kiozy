@@ -14,12 +14,6 @@ Always looking for new challenges and opportunities to collaborate on innovative
 
 ---
 
-### 🚀 GitHub Top Langs
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-kiozy&layout=compact&theme=radical)
-
----
-
 ### 🐍 GitHub Snake Game
 
 ![snake gif](https://raw.githubusercontent.com/lucas-kiozy/lucas-kiozy/output/github-contribution-grid-snake.svg)
